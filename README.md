@@ -17,4 +17,5 @@ Whatever I do, I always do with a developer's mindset:
 3. Solve them one by one
 4. Always search for a better solution
 
-![Erdal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erdaltsksn&show_icons=true&hide_border=true)
+![Erdal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erdaltsksn&theme=cobalt&show_icons=true&&line_height=40)
+![Erdal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erdaltsksn&theme=cobalt&show_icons=true)
