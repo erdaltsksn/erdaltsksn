@@ -10,4 +10,8 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+    assignees:
+      - "erdaltsksn"
+    commit-message:
+      prefix: "chor:"
     labels: [ ] # No Label
