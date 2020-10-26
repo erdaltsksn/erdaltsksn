@@ -14,5 +14,7 @@ Whatever I do, I always do with a developer's mindset:
 2. 🛠️ Break the problem down into as many parts as is feasible
 3. ✅ Solve each one by one
 
-![Erdal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erdaltsksn&theme=cobalt&show_icons=true&&line_height=40)
-![Erdal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erdaltsksn&theme=cobalt&show_icons=true)
+---
+
+![Erdal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erdaltsksn&hide_border=true&show_icons=true&count_private=true&line_height=27)
+![Erdal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erdaltsksn&hide_border=true&show_icons=true&langs_count=3)
