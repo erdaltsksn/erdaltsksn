@@ -3,18 +3,16 @@
 I am an open-source advocate and tech enthusiast. I'm always open to collaborating
 with people on great projects. I spent the last years studying and applying new
 software architectures, adding programming languages to my toolbox, doing deploys,
-writing blog posts, traveling around the world, and doing many other things.
-
-- 📝 I regularly write [articles](https://www.erdaltaskesen.com/blog/)
-- 💬 Ask me anything [here](https://github.com/erdaltsksn/ama)
-- 🔧 Check my [tech stack](https://stackshare.io/erdaltsksn/my-stack)
+[traveling](http://instagram.com/erdaltsksn/) around the world, and doing many
+more. I regularly write articles on my [blog](https://www.erdaltaskesen.com/blog/),
+try to keep [my stack](https://stackshare.io/erdaltsksn/my-stack) modern and up
+to date and finally you can [ask](https://github.com/erdaltsksn/ama) me anything.
 
 Whatever I do, I always do with a developer's mindset:
 
-1. Analyze the problem
-2. Break the one big problem into smaller sub-problems
-3. Solve them one by one
-4. Always search for a better solution
+1. 🔍 Analyze the problem
+2. 🛠️ Break the problem down into as many parts as is feasible
+3. ✅ Solve each one by one
 
 ![Erdal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erdaltsksn&theme=cobalt&show_icons=true&&line_height=40)
 ![Erdal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erdaltsksn&theme=cobalt&show_icons=true)
