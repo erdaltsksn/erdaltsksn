@@ -1,14 +1,13 @@
-# Hi There 👋
+![Screenshot](assets/header.png)
 
-[![GitHub followers](https://img.shields.io/github/followers/erdaltsksn?label=Follow%20at%20GitHub&style=for-the-badge)](https://github.com/erdaltsksn)
-[![Twitter Follow](https://img.shields.io/twitter/follow/erdaltsksn?label=Follow%20at%20Twitter&style=for-the-badge)](https://twitter.com/erdaltsksn)
-[![GitHub Sponsor](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge)](https://github.com/sponsors/erdaltsksn)
-
-I am an open-source advocate and tech enthusiast. I'm always open to collaborate
+I am an open-source advocate and tech enthusiast. I'm always open to collaborating
 with people on great projects. I spent the last years studying and applying new
 software architectures, adding programming languages to my toolbox, doing deploys,
-writing [blog posts](https://www.erdaltaskesen.com/blog/), traveling around the
-world and doing many other things.
+writing blog posts, traveling around the world, and doing many other things.
+
+- 📝 I regularly write [articles](https://www.erdaltaskesen.com/blog/)
+- 💬 Ask me anything [here](https://github.com/erdaltsksn/ama)
+- 🔧 Check my [tech stack](https://stackshare.io/erdaltsksn/my-stack)
 
 Whatever I do, I always do with a developer's mindset:
 
