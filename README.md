@@ -5,8 +5,7 @@ with people on great projects. I spent the last years studying and applying new
 software architectures, adding programming languages to my toolbox, doing deploys,
 [traveling](http://instagram.com/erdaltsksn/) around the world, and doing many
 more. I regularly write articles on my [blog](https://www.erdaltaskesen.com/blog/),
-try to keep [my stack](https://stackshare.io/erdaltsksn/my-stack) modern and up
-to date and finally you can [ask](https://github.com/erdaltsksn/ama) me anything.
+also you can [ask](https://github.com/erdaltsksn/ama) me anything.
 
 Whatever I do, I always do with a developer's mindset:
 
